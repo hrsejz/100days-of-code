@@ -1,0 +1,46 @@
+/* #description {
+  margin-bottom: 36px;
+  font-family: sans-serif;
+  color: yellowgreen;
+} */
+
+header p {
+  margin-bottom: 65px;
+  font-family: sans-serif;
+  color: yellowgreen;
+  font-size: 30px;
+  border-radius: 15px;
+  /* border: 2px solid yellowgreen; */
+}
+
+ol {
+  list-style: none;
+  width: 500px;
+  margin: 36px auto 0 auto;
+  padding: 30px;
+  border-radius: 15px;
+  background-color: rgb(112, 114, 0);
+  box-shadow: 4px 4px 4px rgb(0, 0, 0);
+}
+
+li {
+  list-style: square;
+  list-style: none;
+  background-color: rgb(93, 0, 130);
+  border-radius: 15px;
+  margin: 18px;
+  padding: 14px;
+  box-shadow: 4px 4px 4px rgb(0, 0, 0);
+}
+
+li:hover {
+  background-color: rgb(39, 0, 54);
+}
+
+.highlight-goal {
+  background-color: rgb(69, 0, 97);
+}
+
+.highlight-goal:hover {
+  background-color: rgb(39, 0, 54);
+}
